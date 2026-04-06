@@ -17,7 +17,7 @@ Inserisci il nome di una squadra di Serie A e il programma analizza automaticame
 - Estrazione di un file CSV pulito e ottimizzato per l'analisi
 
 ## Stato del progetto
-🔄 In sviluppo — prossimo step: aggiunta fase di **Machine Learning**
+✅ Progetto completato — Data Collection, EDA, Analisi Statistica e Machine Learning
 
 ## Tecnologie utilizzate
 Python | Jupyter Notebook | Pandas | Matplotlib
